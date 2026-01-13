@@ -21,10 +21,10 @@ export const Sidebar = (props: Props) => {
                 pos='absolute'
                 variant='ghost'>
                 <Stack spacing={6}>
-                    <IconButton aria-label='Instagram' icon={<AiFillInstagram fontSize="1.5rem" />} as={Link} isExternal href='https://www.instagram.com/1_by_zero/' />
+                    <IconButton aria-label='Instagram' icon={<AiFillInstagram fontSize="1.5rem" />} as={Link} isExternal href='https://www.instagram.com/by1_zero/' />
                     <IconButton aria-label='Linkedin' icon={<AiFillLinkedin fontSize="1.5rem" />} as={Link} isExternal href='https://www.linkedin.com/in/amitkumar-worf/' />
                     <IconButton aria-label='Twitter' icon={<AiFillBulb fontSize="1.5rem" />} as={Link} isExternal href='https://www.threads.net/@1_by_zero' />
-                    <IconButton aria-label='Github' icon={<AiFillGithub fontSize="1.5rem" />} as={Link} isExternal href='https://github.com/1byzero' />
+                    <IconButton aria-label='Github' icon={<AiFillGithub fontSize="1.5rem" />} as={Link} isExternal href='https://github.com/amitascra' />
                 </Stack>
             </ButtonGroup>
             <Box
